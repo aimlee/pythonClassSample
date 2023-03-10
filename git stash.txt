@@ -1,0 +1,6 @@
+
+git stash
+git stash list
+git stash apply
+git stash push -m 'new feature laaaa'
+git stash drop 2
